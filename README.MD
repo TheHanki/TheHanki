@@ -3,7 +3,7 @@
 - Hi, I’m Hanki
 - Founder of Hawk HUB
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1098733763128733746)](https://discord.com/users/1098733763128733746)
+
 
 <img src="https://komarev.com/ghpvc/?username=juywvm&label=Numbers%20of%20visitors&color=0b04c7" alt="TheHanki" />
 
