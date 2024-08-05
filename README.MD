@@ -3,14 +3,14 @@
 - Hi, I’m Hanki
 - Founder of Hawk HUB
 
-
+**Where can you contact me?**
+Nothing, i dont use any social media currently.
 
 <img src="https://komarev.com/ghpvc/?username=juywvm&label=Numbers%20of%20visitors&color=0b04c7" alt="TheHanki" />
 
 </div>
 <h3My accounts;</h3>
 <p align="center">
-   <a href="https://discord.com/users/693870290413027373" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/TheHanki" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
